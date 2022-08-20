@@ -13,7 +13,7 @@
 + 🥰 In love with linux 🐧 
 ```
 
-<div align="left" style="display: inline_block">>
+<div align="left">
     <a href="https://github.com/thiagondanjos">
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=thiagondanjos&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
     <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagondanjos&count_private=true&layout=compact&langs_count=6&theme=light"/>
