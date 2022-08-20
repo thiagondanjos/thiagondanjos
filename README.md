@@ -1,5 +1,7 @@
 ### Hi there 🧙🏻‍♂️
+
 <img align="right" height="150" src="https://media.giphy.com/media/d7SnByEMkrdeoVQ2lT/giphy.gif"/>
+
 
 ```diff
 @@I'm a software engineer@@
@@ -11,7 +13,7 @@
 + 🥰 In love with linux 🐧 
 ```
 
-<div align="left">
+<div align="left" style="display: inline_block">>
     <a href="https://github.com/thiagondanjos">
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=thiagondanjos&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
     <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagondanjos&count_private=true&layout=compact&langs_count=6&theme=light"/>
